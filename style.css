@@ -19,6 +19,7 @@ body {
   align-items: center;
   vertical-align: middle;
   margin: 0 auto;
+  padding: 15px;
 }
 
 .box-all {
@@ -75,7 +76,7 @@ span.large {
   font-weight: bold;
 }
 
-@media (max-width: 411px) {
+@media (max-width: 414px) {
   .container-picpay {
     min-height: 90vh;
   }
