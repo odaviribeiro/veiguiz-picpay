@@ -73,3 +73,9 @@ span.large {
   margin-bottom: 10px;
   font-weight: bold;
 }
+
+@media (max-width: 411px) {
+  .container-picpay {
+    min-height: 90vh;
+  }
+}
